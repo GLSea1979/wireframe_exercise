@@ -1,8 +1,6 @@
-* {
-  /*border: 2px dashed purple;*/
-}
+
 body {
-  /*border: 2px dashed orange;*/
+  font-family: sans-serif;
   background-color: #fff;
   color: grey;
 }
@@ -70,11 +68,12 @@ h2 {
   font-size: 1.2em;
 }
 .button {
+    text-decoration: none;
     position: absolute;
     bottom: 0px;
     background-color: #000;
     border: none;
-    color: #797d7f;
+    color: #888;
     padding: 10px 25px;
     text-align: center;
     text-decoration: none;
